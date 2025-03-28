@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kjærlighet til Iver 💖</title>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        /* Rosa, romantisk bakgrunn med gradient */
+        body {
+            background: linear-gradient(to bottom, #ffdde1, #ee9ca7);
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            color: #5a2a41;
+        }
+
+        /* Container med skygge og rundede hjørner */
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+            max-width: 650px;
+            margin: auto;
+        }
+
+        /* Romantisk overskrift */
+        h1 {
+            color: #d63384;
+            font-family: 'Great Vibes', cursive;
+            font-size: 36px;
+        }
+
+        /* Gjør listene søtere */
+        ol, ul {
+            text-align: left;
+            display: inline-block;
+            background: #ffe4e1;
+            padding: 15px;
+            border-radius: 12px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        li {
+            padding: 6px;
+            font-size: 18px;
+        }
+
+        /* Hjerte-emoji styling */
+        .heart {
+            color: red;
+            font-size: 24px;
+        }
+
+        /* Fin avslutning */
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #7a3b61;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>💖 Iver Alexander Hegglund 💖</h1>
+        <p>Dette er en nettside dedikert til verdens beste gutt, skapt av jenta som elsker han mest! 💌</p>
+
+        <h2>Hvorfor jeg elsker Iver 💕</h2>
+        <p>Han er ikke bare kjekk og søt, men han er også den mest omsorgsfulle, morsomme og fantastiske personen jeg kjenner. Når jeg er med han, føles alt riktig. 💖</p>
+
+        <h3>Ting jeg elsker om han:</h3>
+        <ol>
+            <li>Hans varme og snille hjerte ❤️</li>
+            <li>Hans fine øyne som skinner som stjerner ✨</li>
+            <li>Hans latter som får meg til å smile uansett hva 😊</li>
+            <li>At han alltid får meg til å føle meg spesiell 💕</li>
+        </ol>
+
+        <h2>Fakta om Iver 🌟</h2>
+        <ul>
+            <li>⭐ Alder: 13 år</li>
+            <li>👪 Foreldre: Trond Magne Hegglund & Anne May Hallesen</li>
+            <li>🐱 Redd for: Blod og katter (aww, så søtt 😆)</li>
+            <li>⚽ Elsker: Milla, fotball, gaming, TikTok</li>
+        </ul>
+
+        <h2>Hva betyr han for meg? 💌</h2>
+        <p>Iver er ikke bare kjæresten min, han er den som gjør dagene mine lysere. Jeg er så takknemlig for han hver eneste dag, og jeg håper han vet hvor høyt jeg elsker han! 🥰</p>
+
+        <div class="footer">
+            <p>🌹 Laget med kjærlighet av Milla for Iver 🌹</p>
+        </div>
+    </div>
+
+</body>
+</html>
